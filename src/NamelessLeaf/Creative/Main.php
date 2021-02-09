@@ -1,6 +1,6 @@
 <?php
 
-namespace: NamelessLeaf\Creative;
+namespace NamelessLeaf\Creative;
 
 use pocketmine\Server;
 use pocketmine\plugin\PluginBase;
