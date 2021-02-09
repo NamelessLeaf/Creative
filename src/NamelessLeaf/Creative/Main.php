@@ -17,4 +17,4 @@ use jojoe77777\FormAPI;
 use pocketmine\command\CommandExecutor;
 use pocketmine\command\ConsoleCommandSender;
 
-class Main extends pluginBase {}
+class Main extends PluginBase implements Listener{}
