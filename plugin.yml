@@ -7,4 +7,4 @@ main: NamelessLeaf/Creative/Main
 commands:
 gmcui:
 description: "go to creative (UI)"
-permission gmcui.use
+permission: gmcui.use
