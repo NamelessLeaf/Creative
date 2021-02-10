@@ -1,6 +1,6 @@
 <?php
 
-namespace NamelessLeaf\PvP;
+namespace NamelessLeaf\Creative;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\Player;
