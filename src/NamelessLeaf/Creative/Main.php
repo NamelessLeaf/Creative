@@ -30,7 +30,7 @@ class Main extends PluginBase implements Listener {
   public function onCommand(CommandSender $sender, Command $cmd, String $lable, Array $args) : bool {
     
     switch($cmd->getName()){
-      case "gmcui":
+      case "playcreative":
         if($sender instanceof Player){
           $this->form($sender);
         }else{
