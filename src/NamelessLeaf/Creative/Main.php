@@ -59,8 +59,8 @@ class Main extends PluginBase implements Listener {
       }
     });
     $form->setTitle("§d>>§a§lCreative§r§s<<");
-    $form->setContent("Click To Choose A Creative Mode!");
-    $form->addButton("Sumo");
+    $form->setContent("Click To Play Creative!");
+    $form->addButton("§l§aCONFIRM");
     $form->addButton("Exit");
     $form->sendToPlayer($player);
     return $form;
